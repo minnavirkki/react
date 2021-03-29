@@ -32,7 +32,7 @@ class App extends Component {
             : this.state.counter % 2 === 0
             ? "even"
             : "odd"
-            } circle`;
+        } circle`;
 
         return (
             <div>
