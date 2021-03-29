@@ -1,3 +1,9 @@
-.App {
-  text-align: center;
+.circle {
+  background-color: grey;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
