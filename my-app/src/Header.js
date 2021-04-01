@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
     return (
-        <nav>q
+        <nav>
             This is a template for a Function Component
         </nav>
     );
